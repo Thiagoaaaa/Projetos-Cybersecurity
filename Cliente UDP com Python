@@ -18,3 +18,5 @@ try:
 finally:
     print('Cliente fechando a conexão')
     s.close()
+
+#Executar o servidor UDP primeiro.
